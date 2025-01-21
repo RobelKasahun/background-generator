@@ -7,6 +7,6 @@
     - git status                            --> Shows the current state of your git working directory
     - git pull                              --> pulls changes made by others and updates the current working dir
     - git branch                            --> list all the branch in the repository
-    - git branch                            --> < create a new branch >
-    - git checkout                          --> < name of the branch you want to switch to >
+    - git branch new-branch-name            --> < create a new branch >
+    - git checkout branch-name              --> < change the branch to branch-name >
 """
